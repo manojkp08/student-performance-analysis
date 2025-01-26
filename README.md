@@ -15,6 +15,28 @@ The **Student Performance Analyzer** is your go-to solution for understanding an
 
 ---
 
+## Demo Video
+
+Watch the demo of the project in action:
+
+<a href="https://drive.google.com/file/d/1kaffbwOTyM-IDgsC1zRkkP5o7PmI4Ehn/view?usp=sharing" target="_blank">
+  <img src="https://github.com/user-attachments/assets/9c662ec9-ca79-45c3-ad8c-8fa4c81d5c8c" alt="Watch Video" width="250">
+</a>
+
+
+
+> Click the image above to watch the video or [click here](https://drive.google.com/file/d/FILE_ID/preview).
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/1911db9c-5a90-41e7-bb78-7202a23f8eda" alt="Screenshot 1" width="300">
+<img src="https://github.com/user-attachments/assets/8e3be966-89e8-4c05-919a-6c280be57f24" alt="Screenshot 2" width="300">
+<img src="https://github.com/user-attachments/assets/b3e85343-ffeb-4322-ad6b-87978b53e977" alt="Screenshot 3" width="300">
+<img src="https://github.com/user-attachments/assets/aa83fb0e-7e36-4ac5-9eca-6da4094375bf" alt="Screenshot 4" width="300">
+<img src="https://github.com/user-attachments/assets/c229e15f-cacd-4e2c-9815-07b21f953663" alt="Screenshot 5" width="300">
+
+
+
 ## 📂 Folder Structure  
 
 ```plaintext
